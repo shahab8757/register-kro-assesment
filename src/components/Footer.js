@@ -167,6 +167,7 @@ const Footer = () => {
         </div>
         <div className="text-center mt-3">
           <p className="mb-0">&copy; 2025 Registerkaro. All Rights Reserved.</p>
+          <p>created by Shahabuddin </p>
         </div>
       </div>
     </footer>
